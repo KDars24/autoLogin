@@ -1,6 +1,6 @@
 # autoLogin
 
-##Requirements
+## Requirements
 This script requires selenium.
 Install selenium using this command 
 ``` pip install selenium```
